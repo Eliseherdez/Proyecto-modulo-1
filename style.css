@@ -1,0 +1,83 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+</style>
+
+
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+font-family:Roboto;
+background-color: bisque;
+}
+header{
+    background-color:rgb(255, 255, 254);
+    text-align: left ; right: 10px;
+    padding: 10px 10px;
+    
+}
+nav a {
+  display: inline;
+  text-decoration: none;
+  color:gray;
+  margin: 0 15px;
+  padding: 10px 20px;
+}
+ .nav >placeholder{
+    height: 50px;
+    margin-right: -10em;
+    min-width: 400px;
+   }
+   .input{
+    border-radius: 25px;
+    background-color: blue;
+   }
+   #sfa-search{
+    height: 400px;
+    width: 100px;
+   }
+.logo{
+  margin: 5px;
+  padding: 10px 10px;
+  left: 20px;
+  right: 20px;
+  position:absolute;
+}
+
+
+.placeholder{
+border-radius: 24px;
+right: auto;
+color: rgba(253, 252, 244, 0.884);
+width: 15px;
+
+}
+
+.class #galeria{
+  margin:20px;
+  position: absolute;
+  right: 20px;
+  border-radius: 00px;
+
+
+}
+
+.grid-item{
+  border-radius: 20px;
+ columns: 5;
+ position:center;
+ margin: 10px;
+ align-content:first baseline;
+align-items: flex-start;
+
+
+}
+
+  
+    
+    
+  
+  
+ 
+
